@@ -8,4 +8,3 @@ Create a java application for Student Registration System. For this, admin accep
 3. Add admin 
 4. Show admin details.
 5. Update and delete admin.
-
